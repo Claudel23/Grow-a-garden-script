@@ -1,2 +1,2 @@
-the script file is the raw script, all you have to do is paste the next command in your executor
+the script file is the raw script, all you have to do is paste the next command in your executor(the best executor is delta)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Claudel23/Grow-a-garden-script/refs/heads/main/script"))()
